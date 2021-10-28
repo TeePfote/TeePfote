@@ -3,7 +3,7 @@
 ## I'm a business informatics student from Dresden, Germany!!
 
 - 🔭 I'm right know in my 3. semester
-- 🌱 I’m currently learning Javascript by my self and all what my University wants me to learn 🤣
+- 🌱 I’m currently learning Javascript by myself and all what my University wants me to learn 🤣
 - ⚡ Fun fact: I love tea and I played drums over 11 years
 
 ### Connect with me:
