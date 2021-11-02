@@ -5,7 +5,7 @@
 - 🔭 I'm right know in my 3. semester
 - 🌱 I’m currently learning Javascript by myself and all what my University wants me to learn 🤣
 - ⚡ Fun fact: I love tea and I played drums over 11 years
-- What I want to learn next: <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" />
+- What i learn right now: <img align="right" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" />
 
 ### Connect with me:
 
