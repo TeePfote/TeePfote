@@ -3,8 +3,8 @@
 ## I'm a business informatics student from Dresden, Germany!!
 
 - 🔭 I'm right know in my 4. semester
-- 🌱 I’m currently learning Javascript by myself and all what my University wants me to learn 🤣
-- ⚡ Fun fact: I love tea and I played drums over 11 years
+- 🌱 I’m currently learning React + Python and all what my University wants me to learn 🤣
+- ⚡ Fun fact: I love tea + coffee and I played drums over 11 years
 - <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" /> <-- learning this right now
 
 ### Connect with me:
