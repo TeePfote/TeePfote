@@ -10,7 +10,7 @@
 ### Connect with me:
 
 [<img align="left" alt="Media | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Media | LinkedIN" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg]" />][linkedin]
+[<img align="left" alt="Media | LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />][linkedin]
 
 <br />
 
