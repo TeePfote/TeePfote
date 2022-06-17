@@ -2,9 +2,9 @@
 
 ## I'm a business informatics student from Dresden, Germany!!
 
-- 🔭 I'm right know in my 4. semester
+- 🔭 I'm right now in my 4th semester
 - 🌱 I’m currently learning React + Python and all what my University wants me to learn 🤣
-- ⚡ Fun fact: I love tea + coffee and I played drums over 11 years
+- ⚡ Fun fact: I love tea + coffee and I played drums for 11 years
 - <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/python/python.png" /> <-- learning this right now
 
 ### Connect with me:
