@@ -2,8 +2,8 @@
 
 ## I'm a business informatics student from Dresden, Germany!!
 
-- 🔭 I'm right now in my 7th semester
-- 🌱 I’m currently learning React + Python and all what my University wants me to learn
+- 🔭 I'm right now in my 9th semester of my diploma
+- 🌱 I’m currently learning React and AI stuff
 
 ### Connect with me:
 
